@@ -1,6 +1,7 @@
 # testtools
 
-A really convoluted set of tools with severe limitations for testing in python.
+A set of really convoluted tools with severe limitations for running tests
+in python.
 
 ## Requirements
 
